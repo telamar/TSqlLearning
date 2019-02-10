@@ -6,6 +6,12 @@
     </LogicalFolder>
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
+        <FileNode Name="Constraints.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Constraints.sql</FullPath>
+        </FileNode>
         <FileNode Name="CreateDatabase.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
