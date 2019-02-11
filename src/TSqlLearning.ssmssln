@@ -5,13 +5,16 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TSqlLearning.DataDefinitionLanguage", "TSqlLearning.DataDefinitionLanguage\TSqlLearning.DataDefinitionLanguage.ssmssqlproj", "{246365FA-9D28-44E2-89E8-78DC9BBAF489}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "TSqlLearning.DataManipulationLanguage", "TSqlLearning.DataManipulationLanguage\TSqlLearning.DataManipulationLanguage\TSqlLearning.DataManipulationLanguage.ssmssqlproj", "{FA646914-8E13-4983-BB41-31211C9FAA4B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{246365FA-9D28-44E2-89E8-78DC9BBAF489}.Default|Default.ActiveCfg = Default
-		{7673E4F6-8D4D-4EA9-BE29-77A7001B66A3}.Default|Default.ActiveCfg = Default
+		{3D7596DC-E747-4C1E-B0F9-1B0F437BB9AA}.Default|Default.ActiveCfg = Default
+		{FA646914-8E13-4983-BB41-31211C9FAA4B}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
