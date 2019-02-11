@@ -30,6 +30,12 @@
           <AssociatedConnUserName />
           <FullPath>CreateType.sql</FullPath>
         </FileNode>
+        <FileNode Name="Filestream.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Filestream.sql</FullPath>
+        </FileNode>
         <FileNode Name="Helpers.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
