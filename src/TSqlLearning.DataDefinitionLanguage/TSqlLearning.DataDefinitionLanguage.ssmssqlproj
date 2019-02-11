@@ -24,6 +24,18 @@
           <AssociatedConnUserName />
           <FullPath>CreateTable.sql</FullPath>
         </FileNode>
+        <FileNode Name="CreateType.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CreateType.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Helpers.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Helpers.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
