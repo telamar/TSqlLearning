@@ -48,6 +48,12 @@
           <AssociatedConnUserName />
           <FullPath>AlterDatabase.sql</FullPath>
         </FileNode>
+        <FileNode Name="AlterTable.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>AlterTable.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
