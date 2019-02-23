@@ -24,6 +24,12 @@
           <AssociatedConnUserName />
           <FullPath>Insert.sql</FullPath>
         </FileNode>
+        <FileNode Name="Select.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Select.sql</FullPath>
+        </FileNode>
         <FileNode Name="Update.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
