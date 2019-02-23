@@ -27,8 +27,8 @@ GO
 INSERT INTO FirstTable VALUES
 	('Ivan', 12),
 	('Andrew', 13),
-	('Vasyl', 11)
-INSERT INTO SecondTable VALUES ('Vasyl')
+	('Vasyl', 11);
+INSERT INTO SecondTable VALUES ('Vasyl');
 GO
 
 -- Examples

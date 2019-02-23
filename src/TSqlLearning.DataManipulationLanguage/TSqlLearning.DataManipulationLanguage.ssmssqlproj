@@ -12,6 +12,12 @@
           <AssociatedConnUserName />
           <FullPath>Delete.sql</FullPath>
         </FileNode>
+        <FileNode Name="Helpers.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Helpers.sql</FullPath>
+        </FileNode>
         <FileNode Name="Insert.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
