@@ -54,6 +54,12 @@
           <AssociatedConnUserName />
           <FullPath>AlterTable.sql</FullPath>
         </FileNode>
+        <FileNode Name="TempTables.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>TempTables.sql</FullPath>
+        </FileNode>
       </Items>
     </LogicalFolder>
     <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
