@@ -36,6 +36,12 @@
           <AssociatedConnUserName />
           <FullPath>CreateType.sql</FullPath>
         </FileNode>
+        <FileNode Name="DatabaseMetadata.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>DatabaseMetadata.sql</FullPath>
+        </FileNode>
         <FileNode Name="Filestream.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
