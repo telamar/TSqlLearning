@@ -18,6 +18,12 @@
           <AssociatedConnUserName />
           <FullPath>CreateDatabase.sql</FullPath>
         </FileNode>
+        <FileNode Name="CreateSequence.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>CreateSequence.sql</FullPath>
+        </FileNode>
         <FileNode Name="CreateTable.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
