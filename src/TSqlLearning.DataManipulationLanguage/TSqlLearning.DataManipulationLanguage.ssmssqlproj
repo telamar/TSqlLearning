@@ -30,6 +30,12 @@
           <AssociatedConnUserName />
           <FullPath>Insert.sql</FullPath>
         </FileNode>
+        <FileNode Name="Joins.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>Joins.sql</FullPath>
+        </FileNode>
         <FileNode Name="Select.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
